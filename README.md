@@ -1,2 +1,2 @@
 # DuLink
- Programa para gerar link para a área de trasferência através de um link HTML.
+ Gerador de link direto, através de um código HTML criado por um arquivo do OneDrive.
